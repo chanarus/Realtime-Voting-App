@@ -3,3 +3,6 @@ Creating realtime voting app using
 * JavaScript
 * Node.js
 * Mongo DB
+* Pusher
+* Express
+* Chart.js
