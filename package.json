@@ -1,0 +1,19 @@
+{
+  "name": "realtime-voting-app",
+  "version": "1.0.0",
+  "description": "This is a realtime voting app created by using Javascript, nodejs, mongodb, pusher, express and chartjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanarus/Realtime-Voting-App.git"
+  },
+  "author": "Chanaru Sampath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanarus/Realtime-Voting-App/issues"
+  },
+  "homepage": "https://github.com/chanarus/Realtime-Voting-App#readme"
+}
