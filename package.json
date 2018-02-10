@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/chanarus/Realtime-Voting-App/issues"
   },
-  "homepage": "https://github.com/chanarus/Realtime-Voting-App#readme"
+  "homepage": "https://github.com/chanarus/Realtime-Voting-App#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4",
+    "pusher": "^1.5.1"
+  }
 }
