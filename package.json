@@ -4,7 +4,8 @@
   "description": "This is a realtime voting app created by using Javascript, nodejs, mongodb, pusher, express and chartjs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
