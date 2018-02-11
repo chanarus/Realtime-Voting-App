@@ -7,6 +7,9 @@ const port = 3000;
 
 const app = express();
 
+//DB config
+require('./config/db');
+
 //Set public folder
 app.use(express.static(path.join(__dirname, 'public')));
 

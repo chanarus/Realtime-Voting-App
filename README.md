@@ -5,4 +5,4 @@ Creating realtime voting app using
 * Mongo DB
 * Pusher
 * Express
-* Chart.js
+* canvasjs
